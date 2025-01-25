@@ -70,7 +70,7 @@ Projekt "System Biblioteczny" to aplikacja napisana w Pythonie z wykorzystaniem 
     - Kliknij przycisk "Szukaj".
     - Zostaną wyświetlone wyniki wyszukiwania.
 
-## Autorzy
+## Autor
 - [Szymon Pyrz](https://github.com/Szymeq003)
 
 ## Licencja
