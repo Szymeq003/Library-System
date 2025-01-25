@@ -41,16 +41,17 @@ Projekt "System Biblioteczny" to aplikacja napisana w Pythonie z wykorzystaniem 
     python main.py
     ```
 
-#LibrarySystem/
-├── setup.py
-├── library_system/
-│   ├── __init__.py
-│   ├── book.py
-│   ├── library.py
-│   ├── add_book_window.py
-│   ├── search_book_window.py
-│   └── application.py
-└── main.py
+##LibrarySystem/
+-├── setup.py
+-├── library_system/
+-│   ├── __init__.py
+-│   ├── book.py
+-│   ├── library.py
+-│   ├── add_book_window.py
+-│   ├── search_book_window.py
+-│   └── application.py
+-└── main.py
+
 
 
 ## Jak korzystać
