@@ -16,7 +16,7 @@ Projekt "System Biblioteczny" to aplikacja napisana w Pythonie z wykorzystaniem 
 ## Instalacja
 1. **Klonowanie repozytorium**:
     ```sh
-    git clone https://github.com/twoj/projekt.git
+    git clone https://github.com/Szymeq003/Library-System
     cd projekt
     ```
 
